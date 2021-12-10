@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rahul Bajaj
 - 👀 I’m interested in programming and automation 
-- 🌱 I’m currently learning C++,DSA,Web Development,SQL,DBMS
+- 🌱 I’m currently learning C++,DSA,Web Development,SQL and DBMS
 - 💞️ I’m looking to collaborate on ...
 - 📫 rajanbbajaj@gmail.com
 
